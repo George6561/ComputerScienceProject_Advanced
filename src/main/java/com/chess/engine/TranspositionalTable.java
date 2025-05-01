@@ -55,7 +55,7 @@
  * - Limiting table size to prevent memory overflow in long-running sessions.
  * - Supporting multiple probes per key (to store multiple entries if needed).
  */
-package com.chess.montecarlo;
+package com.chess.engine;
 
 import java.util.HashMap;
 import java.util.Map;

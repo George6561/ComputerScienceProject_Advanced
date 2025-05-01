@@ -61,7 +61,7 @@
  * - Rook open-file bonuses
  * - Advanced king activity in endgames.
  */
-package com.chess.montecarlo;
+package com.chess.engine;
 
 import com.chess.minimax.ChessBoard;
 import com.chess.minimax.GameContext;

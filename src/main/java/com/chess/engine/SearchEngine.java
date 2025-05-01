@@ -61,7 +61,7 @@
  *   - Integrate Late Move Reductions (LMR) for deeper search acceleration.
  *   - Add Principal Variation Search (PVS) for enhanced top-move handling.
  */
-package com.chess.montecarlo;
+package com.chess.engine;
 
 import com.chess.minimax.ChessBoard;
 import com.chess.minimax.GameContext;

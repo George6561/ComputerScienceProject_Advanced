@@ -52,7 +52,7 @@
  * or en passant flags separately. These features are typically handled at the board level.
  * Future expansions could include full move flags for complete move semantics.
  */
-package com.chess.montecarlo;
+package com.chess.engine;
 
 import com.chess.minimax.ChessBoard;
 

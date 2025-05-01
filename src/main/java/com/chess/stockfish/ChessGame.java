@@ -61,8 +61,8 @@ package com.chess.stockfish;
 
 import com.chess.minimax.ChessBoard;
 import com.chess.minimax.GameContext;
-import com.chess.montecarlo.Move;
-import com.chess.montecarlo.SearchEngine;
+import com.chess.engine.Move;
+import com.chess.engine.SearchEngine;
 import com.chess.window.ChessWindow;
 import javafx.application.Platform;
 
